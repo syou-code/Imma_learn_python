@@ -6,4 +6,3 @@ git commit -m "add some message here" (same thing as clicking commit on source t
 
 3. push to branch
 git push -u origin <branch_name> (remove the < >) (same thing as clicking push in source tree.)
-ghgh
