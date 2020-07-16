@@ -2,7 +2,8 @@
 git add . (or you click the checkbox in source tree)
 
 2. Second, you commit the files
-git commit -m "add some message here"
+git commit -m "add some message here" (same thing as clicking commit on source tree)
 
 3. push to branch
-git push -u origin <branch_name> (remove the < >)
+git push -u origin <branch_name> (remove the < >) (same thing as clicking push in source tree.)
+,drhtkljr
