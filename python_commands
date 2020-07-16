@@ -1,0 +1,11 @@
+# list installed libraries
+pip list
+
+# to install libraries
+pip install
+
+for example, follow this link https://pypi.org/project/requests/ to install requests library
+
+
+# check python versions
+pyenv version
